@@ -14,7 +14,7 @@ My personal hobbies include:
 
 ### Tech I have used:
 <br>   
-#### Backend
+### Backend
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,fastapi,flask)](https://skillicons.dev)
 
 
