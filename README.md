@@ -1,7 +1,7 @@
 # Stathsh
 <br>   
 ![Stathsh's Stats](https://github-readme-stats.vercel.app/api?username=Stathsh&theme=prussian&show_icons=true&hide_border=false&count_private=true)
-<br>   
+
 I’m currently working on an AI learning platform, the best place for students to consolidate and gather information. I mostly with Python, Typescript and React but am always willing to try new technologies. 
 
 My personal hobbies include:
@@ -13,6 +13,7 @@ My personal hobbies include:
 - Video games
 
 ### Tech I have used:
+<br>   
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,fastapi,flask)](https://skillicons.dev)
 
 
