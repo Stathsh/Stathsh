@@ -12,8 +12,12 @@ My personal hobbies include:
 - Video games  
 
 ## Tech I have used:
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=java, cpp, django, python, fastapi, flask)](https://skillicons.dev)
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind, bootstrap)](https://skillicons.dev)
+### Other
+[![My Skills](https://skillicons.dev/icons?i=blender, arduino, docker, figma, gcp, azure, gitlab)](https://skillicons.dev)
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
