@@ -11,8 +11,8 @@ My personal hobbies include:
 - 2000s rock music
 - Video games  
 
-## Tech I have used:
-### Backend
+### Tech I have used:
+#### Backend
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,fastapi,flask,go)](https://skillicons.dev)
 <!--
 - 🌱 I’m currently learning ...
