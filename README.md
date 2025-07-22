@@ -12,7 +12,8 @@ My personal hobbies include:
 - Video games
 
 ### Tech I have used:
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,fastapi,flask)](https://skillicons.dev)
+
+<br>[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,fastapi,flask)](https://skillicons.dev)
 
 
 <!--
