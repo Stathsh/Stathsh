@@ -13,7 +13,7 @@ My personal hobbies include:
 
 ## Tech I have used:
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=java, cpp, django, python, fastapi, flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp)](https://skillicons.dev)
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
