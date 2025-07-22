@@ -33,5 +33,5 @@ My personal hobbies include:
 - 🤔 I’m looking for help with ...
 -->
 <br>
-You can reach me at alex@alexstath.com or via discord @destroyerofpeanuts
+You can reach me at [alex@alexstath.com] or via discord @destroyerofpeanuts
 
