@@ -22,7 +22,7 @@ My personal hobbies include:
 [![My Skills](https://skillicons.dev/icons?i=r,python,opencv,tensorflow)](https://skillicons.dev)
 
 #### Database:
-[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,supabase,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,supabase,firebase,mongodb)](https://skillicons.dev)
 
 #### Other:
 [![My Skills](https://skillicons.dev/icons?i=blender,figma,arduino,raspberrypi)](https://skillicons.dev)
@@ -33,5 +33,5 @@ My personal hobbies include:
 - 🤔 I’m looking for help with ...
 -->
 <br>
-You can reach me at [alex@alexstath.com] or via discord @destroyerofpeanuts
+You can reach me at alex@alexstath.com or via discord @destroyerofpeanuts
 
