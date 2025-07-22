@@ -16,7 +16,7 @@ My personal hobbies include:
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,go,fastapi)](https://skillicons.dev)
 
 #### Frontend:
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,tailwind,ts,react,nextjs)](https://skillicons.dev)
 
 #### Database:
 [![My Skills](https://skillicons.dev/icons?i=r,python,opencv,tensorflow)](https://skillicons.dev)
