@@ -13,8 +13,6 @@ My personal hobbies include:
 - Video games
 
 ### Tech I have used:
-<br>   
-### Backend
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,fastapi,flask)](https://skillicons.dev)
 
 
