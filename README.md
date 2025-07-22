@@ -7,9 +7,9 @@ My personal hobbies include:
 
 - Hardware implants (pentest)
 - Cyber security
-- Stock trading
+- Trading algorithms
 - 2000s rock music
-- Video games  
+- Video games
 
 ### Tech I have used:
 #### Backend
