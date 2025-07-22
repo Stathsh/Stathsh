@@ -13,7 +13,7 @@ My personal hobbies include:
 
 ## Tech I have used:
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css, tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
