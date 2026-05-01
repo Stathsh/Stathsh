@@ -2,14 +2,14 @@
 
 ![Stathsh's Stats](https://github-readme-stats.vercel.app/api?username=Stathsh&theme=prussian&show_icons=true&hide_border=false&count_private=true)
 
-I’m currently working on an AI learning platform, the best place for students to consolidate and gather information. I mostly with Python, Typescript and React but am always willing to try new technologies. 
+I’m currently working on CakePilot, automated cake deliveries for cooporates. I code a lot in python - i love web automation and mass data scraping where it is tricky to extract and analyse data.
 
 My personal hobbies include:
 
-- Hardware implants (pentest)
-- Cyber security
-- Trading algorithms
-- Mining and Crafting
+- Hardware implants (pentest) - currently building a couple keylogger embedds for different keyboards
+- Cyber security - currently working on a shodan like scanner targetted towards australian infastructure especially hardware verticals
+- Claude - i worship my ai overlords
+- Mining and Crafting - not as much now, i could be shipping with claude
 
 ### Tech I have used:
 #### Backend: 
