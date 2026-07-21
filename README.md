@@ -19,7 +19,7 @@ My personal hobbies include:
 [![My Skills](https://skillicons.dev/icons?i=php,tailwind,ts,react,nextjs)](https://skillicons.dev)
 
 #### Database:
-[![My Skills](https://skillicons.dev/icons?i=r,python,tensorflow, pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,python,tensorflow)](https://skillicons.dev)
 
 #### Database:
 [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,supabase,firebase,mongodb)](https://skillicons.dev)
